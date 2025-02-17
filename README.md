@@ -1,13 +1,13 @@
 ## Cherish Mall Analysis
 
 ## PREVIEW
-- [PROJECT OVERVIEW](projectoverview)
-- [DATA SOURCE](datasource)
-- [TOOLS](tools)
-- [DATA CLEANING](datacleaning)
-- [EXPLORATORY DATA ANALYSIS](exploratorydataanaalysis)
-- [INSIGHTS](insights)
-- [RECOMMENDATION](recommendation)
+- [PROJECT OVERVIEW](#project-overview)
+- [DATA SOURCE](#data-source)
+- [TOOLS](#tools)
+- [DATA CLEANING](#data-cleaning)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-anaalysis)
+- [INSIGHTS](#insights)
+- [RECOMMENDATION](#recommendation)
 
 ## PROJECT OVERVIEW
 This project provides Cherish Mall’s dataset. The goal is to achieve effective customer segmentation using KMeans clusters to know which categories the customers fall under so as to enhance marketing strategies, improve customer satisfaction, increase efficiency make informed decisions.
